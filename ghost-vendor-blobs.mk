@@ -222,6 +222,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/ghost/proprietary/etc/firmware/mspversion_p0.txt:system/etc/firmware/mspversion_p0.txt \
     vendor/motorola/ghost/proprietary/etc/firmware/mspversion_p1.txt:system/etc/firmware/mspversion_p1.txt \
     vendor/motorola/ghost/proprietary/etc/firmware/mspversion_p2.txt:system/etc/firmware/mspversion_p2.txt \
+    vendor/motorola/ghost/proprietary/etc/snd_soc_msm/snd_soc_msm_2x:system/etc/snd_soc_msm/snd_soc_msm_2x \
     vendor/motorola/ghost/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/motorola/ghost/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
     vendor/motorola/ghost/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
